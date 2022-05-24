@@ -86,6 +86,7 @@ public class PracticeWedding {
             String state = schdule.get(1);
             if (state.equals("s")){
                 cnt++;
+
             }else {
                 cnt--;
             }

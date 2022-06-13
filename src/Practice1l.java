@@ -53,6 +53,8 @@
         예시 출력 1
 
         COOL*/
+        
+        //답은 제대로 나오는데 채점 사이트에서 리턴 값이 체크가 안됨
 
 import java.util.Scanner;
 

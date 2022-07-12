@@ -8,6 +8,9 @@
 ## Languages
 <img src="https://img.shields.io/badge/Java-FFCA28"/>
 
+## IDEA
+<img src="https://img.shields.io/badge/IntelliJ IDEA-6A5FBB?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+
 ## 강의 커리큘럼
 * 섹션 0. 채점사이트 연결과 강의자료
 * 섹션 1. String(문자열)
